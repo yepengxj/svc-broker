@@ -10,8 +10,8 @@ import (
 	"github.com/cloudfoundry-community/go-cfenv"
 	"github.com/cloudfoundry-community/types-cf"
 	"github.com/go-martini/martini"
-	"github.com/martini-contrib/auth"
 	"github.com/kr/pretty"
+	"github.com/martini-contrib/auth"
 )
 
 func init() {
